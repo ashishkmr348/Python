@@ -1,2 +1,2 @@
 # Python
-Case study Projects
+Case Study Projects using SQL
